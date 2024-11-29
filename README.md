@@ -4,7 +4,7 @@ This repository contains the work of Emil Roy and Daniel Tjandra for the CSE47 c
 
 ## Setup
 
-1. Follow the setup instructions in the [Gaussian Splatting repository](https://github.com/graphdeco-inria/gaussian-splatting/tree/54c035f7834b564019656c3e3fcc3646292f727d). This includes setting up the conda environment and installing necessary dependencies.
+1. Follow the setup instructions in the [Gaussian Splatting repository](https://github.com/graphdeco-inria/gaussian-splatting/tree/54c035f7834b564019656c3e3fcc3646292f727d). This includes setting up the conda environment and installing necessary dependencies. We will be following much of the instructions found in this [Youtube Link](https://www.youtube.com/watch?v=UXtuigy_wYc) which outlines setting up Gaussian Splatting and importing your own data.
 
 2. Download the Mars data from [this Google Drive link](https://drive.google.com/file/d/1K9FCC0Q2iMnoimP1uk_V2JxNwIgbvdXS/view?usp=drive_link). Extract the data folder and place it in the cloned gaussian-splatting repository.
 
