@@ -1,6 +1,6 @@
 # Mars Imagery with 3D Gaussian Splatting
 
-This repository contains the work of Emil Roy and Daniel Tjandra for the CSE47 class, exploring the application of 3D Gaussian Splatting to Mars imagery.
+This repository contains the work of Emil Roy and Daniel Tjandra for the MAE547 class, exploring the application of 3D Gaussian Splatting to Mars imagery.
 
 ## Setup
 
